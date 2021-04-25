@@ -1,0 +1,22 @@
+.left-sidebar{
+    position: relative;
+    left: 32px;
+    top: 0px;
+    width: 192px;
+    height: 622px;
+    float:left;
+}
+
+
+.main-content{
+    display: inline-block;
+    height: fit-content;
+}
+
+.right-sidebar{
+    position: absolute;
+    left: 830px;
+    top: 154px;
+    width: 192px;
+    height: 622px;
+}
